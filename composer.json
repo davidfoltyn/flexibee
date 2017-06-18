@@ -1,5 +1,5 @@
 {
-    "name": "unimapper/flexibee",
+    "name": "davidfoltyn/flexibee",
     "type": "library",
     "description": "Flexibee implementation for UniMapper",
     "keywords": ["php", "mapping", "data", "orm", "flexibee"],
@@ -8,7 +8,11 @@
         {
             "name": "Bronislav Sedlak",
             "homepage": "http://github.com/bauer01"
-        }
+        },
+		{
+		  "name": "David Foltyn",
+		  "homepage": "http://github.com/davidfoltyn"
+		}
     ],
     "require": {
         "php": ">=5.4.0",
